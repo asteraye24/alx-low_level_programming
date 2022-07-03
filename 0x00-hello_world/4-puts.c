@@ -2,9 +2,9 @@
 /**
  * main - Entry point
  *
- * Description: A C program that builds multilingual language.
+ * Description: A C program language.
  *
- * return: Always 0 (success)
+ * return: Always 0 (Success)
  */
 
 int main(void)

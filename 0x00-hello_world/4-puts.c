@@ -1,4 +1,11 @@
 #include <stdio.h>
+/**
+ * main - Entry point
+ *
+ * Description: A C program that builds multilingual language.
+ *
+ * return: Always 0 (success)
+ */
 
 int main(void)
 {

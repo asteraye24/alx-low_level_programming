@@ -2,8 +2,8 @@
 
 /**
  * mul - multiplies two numbers
- * @a: integer1
- * @b: integer2
+ * @a: integer param1
+ * @b: integer param2
  * Return: success and integer
  */
 

@@ -1,18 +1,13 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
- * mul - multiplies two numbers
+ * mul -> multiplies 2 numbers
  * @a: integer param1
  * @b: integer param2
- * Return: multiple of a and b
+ * Return: success and integer
  */
 
-int mul(int a, int b);
+int mul(int a, int b)
 {
-	int c;
-
-	c = a * b;
-
-	return (c);
+	return (a * b);
 }

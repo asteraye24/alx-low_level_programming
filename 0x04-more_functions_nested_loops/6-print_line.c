@@ -4,7 +4,6 @@
  * print_line -> printing lines
  * @n: integer params
  */
-
 void print_line(int n)
 {
 	int x;

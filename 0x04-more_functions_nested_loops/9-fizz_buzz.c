@@ -4,6 +4,7 @@
  *
  * Return: void
  */
+
 int main(void)
 {
 
@@ -31,15 +32,15 @@ int main(void)
 			else
 				printf("Buzz ");
 		}
-
-
+		
 		else
 		{
 			printf("%i ", i);
 		}
 
 		i++;
-
+	
+	
 	}
 	printf("\n");
 	return (0);
